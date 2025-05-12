@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FitTrack</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_exercise">exercise</string>
+    <string name="title_account">account</string>
+    <string name="title_settings">settings</string>
+    <string name="title_statistics">statistics</string>
+    <string name="title_goals">goals</string>
+    <string name="goals">Goals</string>
+    <string name="statistics">Statistics</string>
+    <string name="exercise">Exercise</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+</resources>
